@@ -15,7 +15,7 @@ Login is required to use 2-Step Verification, making it impossible for people to
 
 Direct connection can be enabled or disabled per friend (whitelist and blacklist are possible)
 
-# Beta app pictures
+# :camera: Beta app pictures
 
 ![pic1](https://github.com/wox-comms/.github/raw/main/281620499_1061962484741416_6946282545376304104_n.png)
 ![pic2](https://github.com/wox-comms/.github/raw/main/281212396_1316089802247879_4351450930539841824_n.png)
