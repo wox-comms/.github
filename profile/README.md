@@ -18,6 +18,8 @@ A közvetlen kapcsolatot barátonként lehet állítani (fehérlista, valamint f
 
 # :camera: Alpha app (v0.6 unsigned)
 
+![pic3](https://github.com/wox-products/desktop-source/raw/main/images/login.png?raw=true)
 ![pic1](https://github.com/wox-comms/.github/raw/main/281620499_1061962484741416_6946282545376304104_n.png)
 ![pic2](https://github.com/wox-comms/.github/raw/main/281212396_1316089802247879_4351450930539841824_n.png)
+
 
